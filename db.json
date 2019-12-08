@@ -1,11 +1,94 @@
 {
-  "posts": [
+  "organizations": [
     {
-      "id": 1,
-      "title": "hello"
+      "organizationId": "7befb0df-0ee5-444f-a0db-40ddca3834e8",
+      "name": "JEBEL ALI PRIMARY SCHOOL CLINIC",
+      "dateOfSignUp": "2019-12-05T23:12:47.9509964+00:00",
+      "numberOfUsers": 5,
+      "mobileNumber": "000-111-2222",
+      "lastSignIn": "2019-12-07T23:12:47.9509993+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "575d7b11-fa6e-4637-b288-d4f1c2e57a6c",
+      "name": "ABUMOOSA ALASHARI PRIVATE SCHOOL CLINIC",
+      "dateOfSignUp": "2019-12-05T23:12:47.9510636+00:00",
+      "numberOfUsers": 18,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.9510651+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "08669dce-3524-4325-8724-8d52ad272c56",
+      "name": "ABU SALMAN MEDICAL CENTRE",
+      "dateOfSignUp": "2019-12-05T23:12:47.9510838+00:00",
+      "numberOfUsers": 9,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.9510853+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "53dda16b-1e32-42cd-8fcf-b5fc5a3e7620",
+      "name": "ABU KRAYYAH SCHOOL CLINIC",
+      "dateOfSignUp": "2019-12-05T23:12:47.9510931+00:00",
+      "numberOfUsers": 11,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.9510946+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "f4d2a934-c839-4806-ac5f-3048409d2ed6",
+      "name": "ABU DHABI UNIVERSITY CLINIC",
+      "dateOfSignUp": "2019-12-05T23:12:47.9511024+00:00",
+      "numberOfUsers": 14,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.9511039+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "bf566b5e-19b8-4914-92ae-cfb653ab8d23",
+      "name": "ABU DHABI STEM CELLS CENTER",
+      "dateOfSignUp": "2019-12-05T23:12:47.9511237+00:00",
+      "numberOfUsers": 6,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.9511308+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "3fec3e29-edb8-415c-b8be-fca9c1dab6a6",
+      "name": "ABU DHABI SPINE CENTER LLC",
+      "dateOfSignUp": "2019-12-05T23:12:47.9511385+00:00",
+      "numberOfUsers": 5,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.95114+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "253fd2aa-c3f5-4d0d-8e5c-e7933c25aa4f",
+      "name": "ABU DHABI SHIP BUILDING COMPANY CLINIC",
+      "dateOfSignUp": "2019-12-05T23:12:47.9511476+00:00",
+      "numberOfUsers": 6,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.9511491+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "c8bcfe39-1b3d-4104-819c-d7fac6e576a8",
+      "name": "ABU DHABI SCHOOL CLINIC",
+      "dateOfSignUp": "2019-12-05T23:12:47.9511568+00:00",
+      "numberOfUsers": 0,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.9511584+00:00",
+      "status": "active"
+    },
+    {
+      "organizationId": "39929b00-8d8d-4578-a436-2b6cf49bff80",
+      "name": "ABU DHABI REHABILITATION CENTER",
+      "dateOfSignUp": "2019-12-05T23:12:47.951166+00:00",
+      "numberOfUsers": 1,
+      "mobileNumber": null,
+      "lastSignIn": "2019-12-07T23:12:47.9511675+00:00",
+      "status": "active"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
